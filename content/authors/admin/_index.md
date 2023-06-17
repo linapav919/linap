@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lina Pav
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lina
+last_name: Pav
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Business Information Management Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Irvine
+    url: https://uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a senior student majoring in business information management with a minor in public health informatics. I love working in groups and pitching business ideas, while also being deeply interested in health informatics. Currently, I am involved in a summer research program, conducting research on women's health disparities.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytic
+  - Project Management
+  - Project Coordinator
 
 # Education to show in About widget
 education:
